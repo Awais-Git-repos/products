@@ -173,4 +173,7 @@ a {
   .content p{
     line-height: 3rem;
   }
+    .heading_tag{
+    display: none;
+  }
 }
